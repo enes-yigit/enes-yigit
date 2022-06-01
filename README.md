@@ -1,6 +1,6 @@
 - 👋 Hi, I’m enes
 - 👀 I’m interested in web3 and cyber security
-- 🌱 I’m currently learning js and php
+- 🌱 I’m currently learning js
 - 📫 How to reach me => i.enes.2106@gmail.com
 
 <!---
